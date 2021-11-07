@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Cap_No_Silk)(type KiCad)(uri ${KIPRJMOD}/Symb/Cap_No_Silk.pretty)(options "")(descr ""))
+)
