@@ -1,5 +1,5 @@
 # Introduction
-A basic implementation of a half-bridge driver for hobbiest DC motors.
+A basic implementation of a half-bridge driver for hobbyest DC motors.
 
 ## Features of Interest
 * Isolated, Schmitt Trigger, Digital Input
