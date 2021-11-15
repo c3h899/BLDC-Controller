@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name d_schottky_akak)(type Legacy)(uri ${KIPRJMOD}/Symb/d_schottky_akak.lib)(options "")(descr ""))
   (lib (name AduM)(type Legacy)(uri ${KIPRJMOD}/Symb/AduM.lib)(options "")(descr ""))
+  (lib (name 74hc7002)(type Legacy)(uri ${KIPRJMOD}/Symb/74hc7002.lib)(options "")(descr ""))
 )

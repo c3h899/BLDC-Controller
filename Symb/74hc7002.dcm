@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC7002
+D quad 2-input NOR gate with Schmitt-Trigger Inputs
+K TTL Nor2
+$ENDCMP
+#
+#End Doc Library
